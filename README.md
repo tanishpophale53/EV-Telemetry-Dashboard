@@ -12,7 +12,7 @@ The standard EV Telematics dashboard is built using Thingsboard - An opensource 
 
 ![WhatsApp Image 2024-03-25 at 8 20 13 PM](https://github.com/tanishpophale53/EV-Telemetry-System/assets/71888416/08e37594-80c1-4467-b362-49324aa3e3d5)
 
-On each device click, individual device dashboard will open detailing its parameters like Temperature, BatteryStat, Gyro
+On each device click for ex - TestEV_1 from the above image, individual device dashboard will open detailing its parameters like Temperature, BatteryStat, Gyro, Vibration, vehicle Speed, Latitude and Longitude.
 
 ![WhatsApp Image 2024-03-25 at 8 15 54 PM](https://github.com/tanishpophale53/EV-Telemetry-System/assets/71888416/20bbb276-ccc0-43dc-99db-f72656d0cf64)
 
